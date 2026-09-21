@@ -1,0 +1,17 @@
+{
+  "folders": [
+    {
+      "name": "Página de cumpleaños",
+      "path": "."
+    }
+  ],
+  "settings": {
+    "editor.formatOnSave": true,
+    "liveServer.settings.port": 5500
+  },
+  "extensions": {
+    "recommendations": [
+      "ritwickdey.liveserver"
+    ]
+  }
+}
